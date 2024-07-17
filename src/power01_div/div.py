@@ -1,2 +1,3 @@
-def div():
-    print("div")
+def div(a,b):
+    ans = a / b
+    print(ans)
